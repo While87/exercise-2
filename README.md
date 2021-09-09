@@ -1,4 +1,5 @@
 Объясните почему блок "Work 2" не выполняется?
+
     let serialQueue = DispatchQueue(label: "com.foo.bar")
     
     serialQueue.async {
